@@ -24,7 +24,7 @@ A community maintained open source project aimed at making personal portfolio fo
 
 ### Home Page:
 
-<p align="center"><img src="./readme_assets/Home_Page.gif"></p>
+/
 
 ### Experience Page:
 
