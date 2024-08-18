@@ -20,54 +20,6 @@
 
 A community maintained open source project aimed at making personal portfolio for researchers, developers and analysts simple, fast and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavours.
 
-## A sneak peek into what we have here🙈 :
-
-### Home Page:
-
-/
-
-### Experience Page:
-
-<p align="center"><img src="./readme_assets/Experience_Page.gif"></p>
-
-### Project Page:
-
-<p align="center"><img src="./readme_assets/Project_Page.gif"></p>
-
-### Research Page:
-
-<p align="center"><img src="./readme_assets/Research_Page.gif"></p>
-
-### Education Page:
-
-<p align="center"><img src="./readme_assets/Education_Page.gif"></p>
-
-## How to use this?🛠
-
-[Check out our awesome Documentation](https://anirudhsingh.github.io/awesome-portfolio-websites/)
-
-## Contribution Guidelines🏗
-
-Are we missing any of your favorite features, which you think you can add to it❓ We invite you to contribute to this project and improve it further.
-
-Click on the image below to set up and contribute to the project or [Click here](https://github.com/anirudhsingh/awesome-portfolio-websites/blob/master/CONTRIBUTING.md)
-
-<a href = "https://github.com/anirudhsingh/awesome-portfolio-websites/blob/master/CONTRIBUTING.md">
-<img src = "./readme_assets/Contribution.png"></a>
-
-## Project Maintainers👨🏫:
-
-| <img src = "https://avatars2.githubusercontent.com/u/46641503?v=4"> | <img src = "https://avatars2.githubusercontent.com/u/40017559?v=4"> | 
-| :----------------------------------------------------------: | :----------------------------------------------------------: | 
-|     [Smaranjit Ghose](https://github.com/anirudhsingh) |    [Anush Bhatia](https://github.com/anushbhatia)                       
-
-
-## Our valuable Contributors👩‍💻👨‍💻 :
-
-<a href="https://github.com/anirudhsingh/awesome-portfolio-websites/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=anirudhsingh/awesome-portfolio-websites" />
-</a>
-
 ## Open Source Programs we have been a part of:
 
 <p align="center">
