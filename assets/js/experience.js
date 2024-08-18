@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/DRDO.png",
     place: "DRDO",
     time: "June 2024 - Aug 2024",
-    desp: "<li>⚡Building strong knowledge on No-SQL databases and exploring data management and optimization with MongoDB , Redis & Cassandra .</li>",
+    desp: "<li>⚡Building strong knowledge on No-SQL databases and exploring data management and optimization with MongoDB , Redis & Cassandra .</li><li> ⚡Implemented advanced querying techniques in MongoDB to improve data retrieval times, enhancing overall system efficiency.</li>",
   },
   {
     title: "Python Developer",
